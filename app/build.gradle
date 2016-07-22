@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "24.0.0"
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+
+    defaultConfig {
+        applicationId "com.carsknowledgetest.mainui"
+        minSdkVersion 8
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.1.0'
+    compile files('libs/android-query.0.25.10.jar')
+    compile files('libs/Baidu_MobAds_SDK.jar')
+    compile files('libs/qhad_0.1.12.1113.jar')
+    compile files('libs/trinea.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/yPush-com.miaozi.wenzhuan-1.2.5.jar')
+}

@@ -1,0 +1,125 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdFragment" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:id="@+id/ad5"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" >
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ad6"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ad5"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+             >
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ad7"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ad6"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+           >
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ad8"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ad7"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            >
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:text="打开广告页面" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ad9"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ad8"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+             >
+        </RelativeLayout>
+<RelativeLayout
+            android:id="@+id/ad10"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ad9"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+             >
+        </RelativeLayout>
+        
+<RelativeLayout
+            android:id="@+id/ad11"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ad10"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+             >
+            </RelativeLayout>  
+    <RelativeLayout
+            android:id="@+id/ad12"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ad11"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+             >
+        </RelativeLayout>
+        
+         <RelativeLayout
+            android:id="@+id/ad13"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ad12"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+             >
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/ad14"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ad13"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+             >
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/ad15"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/ad14"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+             >
+        </RelativeLayout>
+         
+</RelativeLayout>
+</FrameLayout>

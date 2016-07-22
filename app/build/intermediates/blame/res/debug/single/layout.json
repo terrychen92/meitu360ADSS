@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ad.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\layout\\activity_ad.xml"
+    },
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cute.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\layout\\fragment_cute.xml"
+    },
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sex.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\layout\\fragment_sex.xml"
+    },
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_art.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\layout\\fragment_art.xml"
+    },
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ad.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\layout\\fragment_ad.xml"
+    },
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_temperament.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\layout\\fragment_temperament.xml"
+    }
+]

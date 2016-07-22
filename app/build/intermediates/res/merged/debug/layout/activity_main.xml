@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <RadioGroup
+        android:id="@+id/tabs_rg"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp" >
+
+        <RadioButton
+            android:id="@+id/tab_rb_a"
+            android:layout_weight="1.0"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:text="可爱" 
+            android:textColor="@drawable/text_select"
+            />
+
+        <RadioButton
+            android:id="@+id/tab_rb_b"
+            android:layout_weight="1.0"
+            android:button="@null"
+            android:gravity="center"
+            android:text="气质" 
+            android:textColor="@drawable/text_select"
+            />
+
+        <RadioButton
+            android:id="@+id/tab_rb_c"
+            android:layout_weight="1.0"
+            android:button="@null"
+            android:gravity="center"
+            android:text="文艺" 
+            android:textColor="@drawable/text_select"
+            />
+
+        <RadioButton
+            android:id="@+id/tab_rb_d"
+            android:layout_weight="1.0"
+            android:button="@null"
+            android:gravity="center"
+            android:text="性感" 
+            android:textColor="@drawable/text_select"
+            />
+
+        <RadioButton
+            android:id="@+id/RadioButton01"
+            android:layout_weight="1.0"
+            android:button="@null"
+            android:gravity="center"
+            android:text="广告"
+            android:textColor="@drawable/text_select" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#f0f0f0"
+        android:layout_below="@+id/tabs_rg"
+        />
+
+    <FrameLayout
+        android:id="@+id/tab_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1" >
+
+    </FrameLayout>
+
+</RelativeLayout>

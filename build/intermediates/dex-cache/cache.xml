@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\LT\StudioProjects\meitu360ADSS\app\libs\trinea.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f24f72eef84f891d37c3b7b40a2f91b937330bcc">
+        <dex dex="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\transforms\dex\debug\folders\1000\2\trinea_90d066f697f5664dadc5e5a52ca3f5c479edff69\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5668f077d200bf789b94463244ee35a019b7bc9d">
+        <dex dex="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_212cae28854e9a73c18736a0ebf5f311d0eaaaad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LT\StudioProjects\meitu360ADSS\app\libs\Baidu_MobAds_SDK.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ded68da4bc1d261453974832a90017f73a16c24d">
+        <dex dex="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\transforms\dex\debug\folders\1000\2\Baidu_MobAds_SDK_2a32ee13a4f3bdf601b192e94048aba105b452d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LT\StudioProjects\meitu360ADSS\app\libs\yPush-com.miaozi.wenzhuan-1.2.5.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="928e9a83287b783af0071ce2af3973bb5a149ebb">
+        <dex dex="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\transforms\dex\debug\folders\1000\2\yPush-com.miaozi.wenzhuan-1.2.5_19b4655e13f7062f06b28c5985e989169d4c1bd9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LT\StudioProjects\meitu360ADSS\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_f4c938ec996fcdeb8f6205b55600c6ecfda368dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="84d75cc4c2b73095b6de85027503a86aa92ef1f1">
+        <dex dex="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3578e37913997f98eb66a3d61274bd9e8276ffeb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LT\StudioProjects\meitu360ADSS\app\libs\qhad_0.1.12.1113.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d7a0e5e0c5380eee866afd81856edee159f1db36">
+        <dex dex="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\transforms\dex\debug\folders\1000\2\qhad_0.1.12.1113_7a136030f33c9123d3dafe22b52f3c8997f7656b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_6b3c518bc9c8bcc2951748b7b651357ab447fc9a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LT\StudioProjects\meitu360ADSS\app\libs\android-query.0.25.10.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a60258ce3d38031f3e2ab3afeb38c65f3516fe5a">
+        <dex dex="C:\Users\LT\StudioProjects\meitu360ADSS\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query.0.25.10_ecb8e9dae1b89f1ce35daf2a9c4c654fde2e4849\classes.dex" />
+    </item>
+
+</items>

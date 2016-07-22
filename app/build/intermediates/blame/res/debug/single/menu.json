@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\second.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\menu\\second.xml"
+    },
+    {
+        "merged": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ad.xml",
+        "source": "C:\\Users\\LT\\StudioProjects\\meitu360ADSS\\app\\src\\main\\res\\menu\\ad.xml"
+    }
+]
